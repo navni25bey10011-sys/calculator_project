@@ -1,4 +1,4 @@
-# Project Statement – Basic Calculator
+#  Basic Calculator
 
 ## Problem Statement
 The goal of this project is to design and develop a simple calculator capable of performing basic arithmetic operations.  
@@ -31,3 +31,4 @@ The system should take user input, process the required operation, and display a
 - Validate inputs
 - Perform arithmetic operation
 - Display result
+
