@@ -27,6 +27,21 @@ The project is designed according to the "Build Your Own Project" guidelines and
 2. Run the command:  
 
 
+## Features (Functional Requirements)
+- Take two inputs
+- Accept operator
+- Perform calculation
+- Show result
+
+
+## Non-functional Requirements
+- Usability
+- Reliability
+- Performance
+- Error Handling
+
+
+
 
 
 
