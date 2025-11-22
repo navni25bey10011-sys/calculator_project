@@ -6,12 +6,12 @@ The project is designed according to the "Build Your Own Project" guidelines and
 
 
 ## Features
-- ➕ Addition  
-- ➖ Subtraction  
-- ✖ Multiplication  
-- ➗ Division  
-- ❗ Error handling for invalid inputs  
-- ❗ Division-by-zero protection  
+- Addition  
+- Subtraction  
+- Multiplication  
+- Division  
+- Error handling for invalid inputs  
+- Division-by-zero protection  
 - Modular file structure  
 - Easy to extend  
 
@@ -25,6 +25,7 @@ The project is designed according to the "Build Your Own Project" guidelines and
 ## How to run
 1. Open terminal in project folder  
 2. Run the command:  
+
 
 
 
